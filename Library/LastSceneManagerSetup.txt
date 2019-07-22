@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sceens/Gameover_Sceen.unity
+  isLoaded: 1
+  isActive: 1

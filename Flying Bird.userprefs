@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game_contoler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\bird_controler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_contoler.cs" Line="9" Column="31" />
+      <File FileName="Assets\Scripts\Scroll_object.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Reapting_background.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\column.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\column_pool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayAndExitScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
